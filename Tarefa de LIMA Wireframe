@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T23:08:08.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.7" etag="iFRVHUJgCSm8eme-GdGo" type="github"><diagram id="VIf1AX2DtJ0YCnaLncEC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-05T23:37:43.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="9t8863RDLigPx49NEZIn" version="13.7.7" type="github">
+  <diagram id="VIf1AX2DtJ0YCnaLncEC" name="Página-1">
+    <mxGraphModel dx="1240" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jZeilz_Xy5FIv5TFu90B-15" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-1100" width="1010" height="930" as="geometry" />
+        </mxCell>
+        <mxCell id="jZeilz_Xy5FIv5TFu90B-16" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="jZeilz_Xy5FIv5TFu90B-15">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jZeilz_Xy5FIv5TFu90B-17" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="jZeilz_Xy5FIv5TFu90B-15">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jZeilz_Xy5FIv5TFu90B-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="jZeilz_Xy5FIv5TFu90B-15">
+          <mxGeometry x="190" y="215" width="590" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="jZeilz_Xy5FIv5TFu90B-6" value="Daniel Santos Lopes Silva&amp;nbsp;&lt;br&gt;[Informações sobre endereço Cidade, Telefone, Email]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="jZeilz_Xy5FIv5TFu90B-15">
+          <mxGeometry x="200" y="230" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZeilz_Xy5FIv5TFu90B-7" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#36393d;strokeColor2=#008cff;fillColor=#eeeeee;" vertex="1" parent="jZeilz_Xy5FIv5TFu90B-15">
+          <mxGeometry x="200" y="286" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jZeilz_Xy5FIv5TFu90B-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="jZeilz_Xy5FIv5TFu90B-15">
+          <mxGeometry x="285" y="360" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="jZeilz_Xy5FIv5TFu90B-9" value="Objetivo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="jZeilz_Xy5FIv5TFu90B-15">
+          <mxGeometry x="285" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jZeilz_Xy5FIv5TFu90B-12" value="Meu objetivo é ser o melhor profissional que essa empresa já viu. Trabalhar para que essa empresa seja a melhor do mercado, e não só trabalhar." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="jZeilz_Xy5FIv5TFu90B-15">
+          <mxGeometry x="290" y="410" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jZeilz_Xy5FIv5TFu90B-10" value="Formação" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="jZeilz_Xy5FIv5TFu90B-15">
+          <mxGeometry x="285" y="490" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jZeilz_Xy5FIv5TFu90B-13" value="Me formei na Escola técnica Senai Suíço no ano de 2021/2022. Onde aprendi tudo sobre desenvolvimento de sistemas&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="jZeilz_Xy5FIv5TFu90B-15">
+          <mxGeometry x="290" y="540" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jZeilz_Xy5FIv5TFu90B-11" value="Experiência" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="jZeilz_Xy5FIv5TFu90B-15">
+          <mxGeometry x="285" y="620" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jZeilz_Xy5FIv5TFu90B-14" value="Eu já trabalhei para diversas empresas famosas como Spotify, Tinder entre outras mas, procuro um desafio de verdade por me candidatei a essa empresa. A tecnologia sempre me chamou atenção&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="jZeilz_Xy5FIv5TFu90B-15">
+          <mxGeometry x="290" y="670" width="240" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
